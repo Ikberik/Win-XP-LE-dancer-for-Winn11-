@@ -3,10 +3,15 @@
 Installs the 2004 Microsoft Plus! Dancer LE with the Scooby-Doo dancer on modern Windows.
 Tested: Windows 11 — installs, runs, dances to system audio. Minor visual glitches.
 
+![Scooby-Doo dancing on Windows 11](docs/dancer-win11.png)
+
 ## Install
 1. Clone/download the repo.
 2. Run `Install-ScoobyDancer.cmd` (asks for admin).
 3. Start `C:\Program Files (x86)\Microsoft Plus! Dancer LE\DncLE.exe`.
+
+## Install output
+![Installer output](docs/install-output.png)
 
 ## What the script does
 - Ensures Windows Media Player Legacy is present (DncLE.exe hosts the WMP control).
