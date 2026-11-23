@@ -5,6 +5,11 @@ Tested: Windows 11 — installs, runs, dances to system audio. Minor visual glit
 
 ![Scooby-Doo dancing on Windows 11](docs/dancer-win11.png)
 
+## Original on Windows XP
+![Scooby-Doo dancer on Windows XP](docs/dancer-winxp.png)
+
+![Plus! Dancer help](docs/plus-dancer-help.png)
+
 ## Install
 1. Clone/download the repo.
 2. Run `Install-ScoobyDancer.cmd` (asks for admin).
